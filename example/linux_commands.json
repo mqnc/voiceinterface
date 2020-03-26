@@ -1,0 +1,4 @@
+{
+	"thunder bird":"nohup thunderbird </dev/null >/dev/null 2>&1 &",
+	"fire fox":"nohup firefox </dev/null >/dev/null 2>&1 &"
+}
